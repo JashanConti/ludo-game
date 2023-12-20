@@ -1,1 +1,1 @@
-hi
+hiOur Java Ludo Game project aims to bring the classic board game of Ludo to life in a digital format. This project utilizes Java programming language to create a user-friendly and interactive gaming experience. Ludo, a game enjoyed by people of all ages, is known for its simplicity and entertainment value.
